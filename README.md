@@ -1,6 +1,6 @@
 # Secure Your React Native App with Firebase App Check and reCAPTCHA
 
-Read full tutorial [here]().
+Read full tutorial [here](https://www.djamware.com/post/685e30e01f4105405da935e6/secure-your-react-native-app-with-firebase-app-check-and-recaptcha).
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
